@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-gradient-to-br from-blue-100 to-purple-200;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
